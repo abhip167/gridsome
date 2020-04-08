@@ -1,6 +1,7 @@
 ---
 # Blog Post One
 title: Blog Post Three
+featuredImage: /uploads/puppy3.jpg
 ---
 
 Paragraphs are separated by a blank line.
